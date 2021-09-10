@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{14604EB3-A8DD-4E04-8595-82D9CA6A8AE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nagarro.Sample.Data/DataAccessComponents/SampleDAC.cs">
+    <Files>
+      <File FileName="Nagarro.Sample.Shared/Infrastructure/Common/OperationResult/OperationResult.cs" Line="62" Column="22" />
+      <File FileName="Nagarro.Sample.Business/Validations/ValidationExtensions.cs" />
+      <File FileName="Nagarro.Sample.Business/Validations/Validator.cs" />
+      <File FileName="Nagarro.Sample.Shared/Infrastructure/Common/Validations/NagarroSampleValidationFailure.cs" />
+      <File FileName="Nagarro.Sample.Shared/Infrastructure/Common/Validations/NagarroSampleValidationResult.cs" />
+      <File FileName="../../../../../../Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="5205" Column="1" />
+      <File FileName="CrossPlatformTarget.targets" Line="15" Column="14" />
+      <File FileName="Nagarro.Sample.Console/Program.cs" Line="1" Column="1" />
+      <File FileName="Nagarro.Sample.Console/App.config" Line="4" Column="34" />
+      <File FileName="Nagarro.Sample.Shared/Infrastructure/Common/Constants/AppConstants.cs" Line="18" Column="43" />
+      <File FileName="Nagarro.Sample.Shared/Infrastructure/Common/Factory/FactoryBase.cs" Line="107" Column="87" />
+      <File FileName="Nagarro.Sample.Shared/Infrastructure/Common/ExceptionHandling/ExceptionManager.cs" Line="62" Column="15" />
+      <File FileName="Nagarro.Sample.EntityDataModel/Converter/EntityConverter.cs" Line="225" Column="11" />
+      <File FileName="Nagarro.Sample.Data/DataAccessComponents/SampleDAC.cs" Line="21" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nagarro.Sample" expanded="True">
+            <Node name="1. Presentation" expanded="True">
+              <Node name="Nagarro.Sample.Console" expanded="True" />
+            </Node>
+            <Node name="3. Data" expanded="True">
+              <Node name="Nagarro.Sample.Data" expanded="True">
+                <Node name="DataAccessComponents" expanded="True">
+                  <Node name="SampleDAC.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Nagarro.Sample.EntityDataModel" expanded="True">
+                <Node name="Converter" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="4. Shared" expanded="True">
+              <Node name="Nagarro.Sample.Shared" expanded="True">
+                <Node name="Infrastructure" expanded="True">
+                  <Node name="Common" expanded="True">
+                    <Node name="Constants" expanded="True" />
+                    <Node name="ExceptionHandling" expanded="True" />
+                    <Node name="Factory" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Solution Items" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1._220Presentation.Nagarro.Sample.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

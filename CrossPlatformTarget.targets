@@ -1,0 +1,15 @@
+﻿<!-- <?xml version="1.0" encoding="utf-8"?>
+<configuration>
+</configuration>
+ <ItemGroup>
+  <FilesToDelete Include="delete-me.txt" />
+  <FilesToCopy Include="copy-me.txt" />
+</ItemGroup>
+<Target Name="BeforeBuild">
+  <Message Text="This is the BeforeBuild target" Importance="normal"/>
+  <Delete Files="@(FilesToDelete)" />   
+</Target>
+<Target Name="AfterBuild">
+  <Message Text="This is the AfterBuild target" Importance="normal"/>
+  <Copy SourceFiles="@(FilesToCopy)" DestinationFolder="$(OutputPath)\Foo" />
+</Target> -->

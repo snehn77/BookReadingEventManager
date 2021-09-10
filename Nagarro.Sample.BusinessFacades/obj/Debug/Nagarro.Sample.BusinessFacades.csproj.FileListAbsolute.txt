@@ -1,0 +1,90 @@
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.pdb
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.pdb
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csprojAssemblyReference.cache
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CoreCompileInputs.cache
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CopyComplete
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.pdb
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.pdb
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.pdb
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csprojAssemblyReference.cache
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CoreCompileInputs.cache
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CopyComplete
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.dll.config
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Business.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\FluentValidation.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Business.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.EntityDataModel.dll.config
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.xml
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\FluentValidation.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\FluentValidation.xml
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csprojAssemblyReference.cache
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CoreCompileInputs.cache
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CopyComplete
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.dll.config
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.BusinessFacades.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Business.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\FluentValidation.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Business.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.EntityDataModel.dll.config
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\Nagarro.Sample.Shared.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.xml
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\FluentValidation.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\FluentValidation.xml
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csprojAssemblyReference.cache
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CoreCompileInputs.cache
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.csproj.CopyComplete
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.BusinessFacades\obj\Debug\Nagarro.Sample.BusinessFacades.pdb

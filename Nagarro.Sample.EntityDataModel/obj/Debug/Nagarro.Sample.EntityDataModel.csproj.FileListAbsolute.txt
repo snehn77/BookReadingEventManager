@@ -1,0 +1,62 @@
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll.config
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.pdb
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.pdb
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.xml
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csprojAssemblyReference.cache
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CoreCompileInputs.cache
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CopyComplete
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.dll
+D:\important\fresher\MVC Assignment Updated\MVC revamp\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll.config
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.pdb
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.xml
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csprojAssemblyReference.cache
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CoreCompileInputs.cache
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CopyComplete
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\suparasjain01\Downloads\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll.config
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.pdb
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.xml
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csprojAssemblyReference.cache
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.Migrations.InitialCreate.resources
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.Migrations.NewMigration.resources
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.GenerateResource.cache
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CoreCompileInputs.cache
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CopyComplete
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\snehnandu\Desktop\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll.config
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.EntityDataModel.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\Nagarro.Sample.Shared.pdb
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.xml
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csprojAssemblyReference.cache
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.Migrations.InitialCreate.resources
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.Migrations.NewMigration.resources
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.GenerateResource.cache
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CoreCompileInputs.cache
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.csproj.CopyComplete
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.dll
+C:\Users\snehnandu\Desktop\Assignments\MVC\Sneh.BookReadingEventManager\Nagarro.Sample\Nagarro.Sample.EntityDataModel\obj\Debug\Nagarro.Sample.EntityDataModel.pdb
